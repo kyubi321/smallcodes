@@ -1,0 +1,12 @@
+[{"questions": "are you gay ?",
+  "alternatives": ["yes","no","no sure","fuck you"] ,
+  "ans": 1},{"questions": "are you stupid ?",
+  "alternatives": ["yes","no","no sure","fuck you"] ,
+  "ans": 1},{"questions": "are you useless ?",
+  "alternatives": ["yes","no","no sure","fuck you"] ,
+  "ans": 2},
+{"questions":"are you in love ?",
+  "alternatives": ["yes","no","no sure","fuck you"] ,
+  "ans": 3},{"questions": "you afraid of been lonely ?",
+  "alternatives": ["yes","no","no sure","fuck you"] ,
+  "ans": 1}]
