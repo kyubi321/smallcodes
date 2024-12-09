@@ -1,4 +1,4 @@
-3def spam_identifier(email):
+def spam_identifier(email):
     # importing the necessary packages
 
     import pandas as pd
